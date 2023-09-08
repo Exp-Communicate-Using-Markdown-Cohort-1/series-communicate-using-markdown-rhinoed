@@ -31,3 +31,7 @@ struct Reset: Codable, Identifiable {
     let glidesUsed: GlideTacker?
 }
 ```
+
+- [x] Create Reset struct
+- [x] Create stored properties
+- [ ] Setup Core Data
